@@ -38,4 +38,23 @@ luac.out
 *.i*86
 *.x86_64
 *.hex
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Builds
+.next
+out
+dist
+build
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
 
