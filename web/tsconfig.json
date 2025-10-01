@@ -18,5 +18,8 @@
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2bab197fd053a432623bb504304f0bff7c8b69b9
