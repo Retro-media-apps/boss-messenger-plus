@@ -1,7 +1,7 @@
 {
-  "name": "boss-messenger-plus-web",
+  "name": "boss-messenger-plus-web"
   "version": "1.0.0",
-  "private": true,
+  "private": true
   "scripts": {
     "dev": "next dev",
     "build": "next build",
