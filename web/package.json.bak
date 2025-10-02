@@ -1,7 +1,7 @@
 {
   "name": "boss-messenger-plus-web",
   "version": "1.0.0",
-  "private": true,
+  "private": true
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,16 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "firebase": "^12.3.0",
-    "next": "^14.2.33",
+    "firebase": "^10.7.1",
+    "next": "13.5.6",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^20.11.25",
-    "@types/react": "^18.2.25",
-    "eslint": "8.57.0",
-    "eslint-config-next": "14.2.3",
-    "typescript": "^5.4.5"
+    "typescript": "^5.3.3",
+    "@types/react": "^18.2.21",
+    "@types/node": "^20.5.9"
   }
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 2bab197fd053a432623bb504304f0bff7c8b69b9
